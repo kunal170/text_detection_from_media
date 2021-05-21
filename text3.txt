@@ -1,0 +1,37 @@
+Scholar No.: ..
+
+ 
+
+Name of the Student: ...
+
+ 
+
+MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOGY, BHOPAL
+END TERM EXAM, DECEMBER-2020
+
+Department of Computer Science & Engineering
+
+Course: B.Tech. Semester: III
+
+Subject: Linear Algebra and Numerical Methods Subject Code: CSE-216
+Time: 2:00 PM to 5:00 PM (180 minutes) Branch: CSE
+
+Date: 04/12/2020 Max Marks: 50
+
+Submission / Uploading Time: 5:00 PM to 5:30 PM (30 Minutes)
+
+NOTE: 1. Don’t wait till the deadline to upload, do it as soon as you finish your paper.
+2. Reply and upload the answer sheet in single pdf file with filename as your scholar
+number, for example (191112001.pdf) on email cse216manit@gmail.com
+3. All questions are compulsory.
+
+ 
+
+1. (a) Use Secant method to determine the root of the equation xe* = cosx 5
+
+ 
+
+ 
+
+(b) Verify that the equation tan x + tanh x = 0, where x is in radians, has a 5 |
+

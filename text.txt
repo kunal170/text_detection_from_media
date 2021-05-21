@@ -1,0 +1,52 @@
+Date: 10/11/2020 Max Marks: SU
+Time: 02:00 PM to 05:00 PM (180 minutes)
+
+Submission/uploading time: 05:00 PM to 05:30 PM (30 Minutes)
+
+Note:
+
+1. Dont wait till the deadline to upload, do it as soon as you finish your paper.
+
+2. Reply and upload the answer sheet in single pdf file with filename as your scholar number,
+for example (171112001.pdf)
+
+3. All questions are compulsory.
+
+4. Please read the question paper carefully.
+
+5. Carefully read instructions of individual questions and solve accordingly, marks will be
+deducted if variations found in the answer with respect to the question.
+
+6. DOB is written as DD; MiM> Y1Y2Y3Y,, For example, if your date of birth is January, 01,
+2005, then D, = 0, D2= 1, M,=0, M= 1, Y; = 2, Y2= 0, Y;=0, Y,=5
+
+7. After completion of work, capture images of the response sheet and make a single PDF file.
+
+8. Answer sheets must be sent positively before 5:30 PM, not even a single minute delay will be
+accepted, No response will be considered in the inbox after the time stamp of 5:30 PM.
+
+ 
+
+Q. No. Question(s) Marks
+
+ 
+
+In how many ways can we make mix vegetable with n
+vegetables subject to the following constraints?
+
+The number of potatoes must be even if your scholar number
+is even and odd if it is odd.
+
+The number of beans must be a multiple of 5 if your scholar
+l(a) |number is even else 3. 3
+There can be at most four tomatoes if your scholar number is
+divisible by 3 else five tomatoes.
+
+ 
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,52 @@
+Subject Name: Data Structures
+Time: 3 Hours
+
+Maulana Azad National Institute of Technology, Bhopal
+B.Tech. IIISem. Computer Science and Engineering
+
+End Term Exam November 2020
+
+Subject Code: CSE212
+
+ 
+
+ 
+
+Marks: 50
+
+Note: Write your full name and scholar number at the beginning of answer sheet.
+S.No. Questions Marks
+1. a) Show the indexing formula in array memory representation of lower right triangular matrix both row | 04
+
+major order and column major order.
+
+b) Consider a recursive algorithm
+
+example (n) 03
+
+{
+
+if(n==1) return 0;
+
+fori=1ton
+
+X= x+1;
+
+example(n/2)
+
+}
+
+Write and solve the recurrence relation for the above algorithm and also express the time complexity
+
+in terms of big oh notation.
+
+c) Take 2 polynomials of single variable with highest degree 5 and 8 respectively having not more than| 93
+
+ 
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,46 @@
+ 
+
+Question(s)
+
+Marks
+
+ 
+
+Differentiate between Pulse code modulation and Delta modulation? Give the
+
+reason with example why Delta modulation generates less number of bits?
+
+ 
+
+In case of multimedia transmission how to measure transmission quality and
+
+network performance?
+
+ 
+
+‘What is SONET and its working principle, draw its frame format and calculate
+
+Raw data rate, User data rate and SPE.
+
+ 
+
+Derive frequency deviation, modulation index and bandwidth requirement for
+
+frequency modulated signal.
+
+ 
+
+ 
+
+ 
+
+Identify the line coding or scrambling technique used and also write correct bit
+
+sequence corresponding to given signal.
+
+ 
+
+ 
+
+ 
+

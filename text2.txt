@@ -1,0 +1,21 @@
+MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOGY,
+BHOPAL
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+END- TERM (NOV-DEC-2020)
+Sub: PPL Sub. Code: CSE 215
+Time: 3 Hours Max Marks: 50
+
+Note: Attempt all questions. Answers should be brief and to the point. Make suitable
+
+assumptions wherever necessary and clearly state the same.
+
+Q.1) (A) Suppose you want to design a programming language for Scientific applications.
+Explain different features you should have in that programming languages and why? (3)
+
+(B) Define the programming language evaluation criteria writability. Explain the characteristics
+that affect the writability of programming languages. (2)
+
+Q.2 (A) Create a class Student which has private data members as name, branch, roll no and an
+inner class MARKS, which is having marks of five subjects. Display the name of the student and
+his percentage that has more than 70%. (Consider the functions as per requirements) (4)
+
